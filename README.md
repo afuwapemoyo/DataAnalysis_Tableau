@@ -21,10 +21,9 @@ I have done analysis for sale data .
 ![](images/Picture16.png)
 ![](images/Picture17.png)
 
-#DescriptiveAnalysis
-#PredictiveAnalysis
+# DescriptiveAnalysis and PredictiveAnalysis for Human Resource Dataset
+# I have done analysis for HumanResource data.
 
-I have done analysis for HumanResource data .
 ![](imagesHR/Picture1.png)
 ![](imagesHR/Picture2.png)
 ![](imagesHR/Picture3.png)
