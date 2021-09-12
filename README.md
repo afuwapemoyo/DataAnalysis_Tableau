@@ -1,6 +1,6 @@
 # DataAnalysis_Tableau
-Descriptive and Predictive Analysis for both Sales Data and Human Resource Dataset
-Data preparation with prep builder.
+# Descriptive and Predictive Analysis for both Sales Data and Human Resource Dataset
+# Data preparation with prep builder.
 
 I have done analysis for sale data .
 ![](images/Picture1.png)
