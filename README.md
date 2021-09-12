@@ -19,3 +19,20 @@ I have done analysis for sale data .
 ![](images/Picture15.png)
 ![](images/Picture16.png)
 ![](images/Picture17.png)
+
+#DescriptiveAnalysis
+#PredictiveAnalysis
+
+I have done analysis for HumanResource data .
+![](imagesHR/Picture1.png)
+![](imagesHR/Picture2.png)
+![](imagesHR/Picture3.png)
+![](imagesHR/Picture4.png)
+![](imagesHR/Picture5.png)
+![](imagesHR/Picture6.png)
+![](imagesHR/Picture7.png)
+![](imagesHR/Picture8.png)
+![](imagesHR/Picture9.png)
+![](imagesHR/Picture10.png)
+![](imagesHR/Picture11.png)
+![](imagesHR/Picture12.png) 
