@@ -36,3 +36,9 @@ I have done analysis for sale data .
 ![](imagesHR/Picture10.png)
 ![](imagesHR/Picture11.png)
 ![](imagesHR/Picture12.png) 
+
+
+
+SAMPLE FOR BHASKAR
+![](imagesHR/build.jpg)
+
